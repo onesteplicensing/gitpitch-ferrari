@@ -48,7 +48,7 @@ Loyalties @ 12%, 7200, 48000, 48000, 48000
    }
   ]
  },
- "options": { "responsive": "true" }
+ "options": { "responsive": "true", "scales": { "xAxes": [{ "stacked": true }], "yAxes": [{ "stacked": true }] }}
 }
 -->
 </canvas>
