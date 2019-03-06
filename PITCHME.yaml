@@ -20,4 +20,4 @@ slide-number: true
 vertical-center : true
 
 # Chart Plugins
-chart : true
+charts : true
