@@ -22,3 +22,10 @@
 }
 -->
 </canvas>
+
++++
+<canvas data-chart="bar">
+Year, 2019, 2020, 2021, 2022
+Forecasted Sale, 60000, 400000, 400000, 400000
+Loyalties @ 12%, 7200, 48000, 48000, 48000
+</canvas>
