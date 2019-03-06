@@ -29,3 +29,26 @@ Year, 2019, 2020, 2021, 2022
 Forecasted Sale, 60000, 400000, 400000, 400000
 Loyalties @ 12%, 7200, 48000, 48000, 48000
 </canvas>
+
++++
+
+<canvas data-chart="bar">
+<!--
+{
+ "data": {
+  "labels": ["2019"," 2020"," 2021"," 2022"],
+  "datasets": [
+   {
+    "data":[60000,400000,400000,400000],
+    "label":"Forecasted Sale","backgroundColor":"rgba(20,220,220,.8)"
+   },
+   {
+    "data":[7200, 48000, 48000, 48000],
+    "label":"Loyalties @ 12%","backgroundColor":"rgba(220,120,120,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
